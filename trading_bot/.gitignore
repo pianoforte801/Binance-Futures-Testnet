@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Keep sample logs committed for the deliverable, but ignore local scratch logs
+logs/*.log.*
