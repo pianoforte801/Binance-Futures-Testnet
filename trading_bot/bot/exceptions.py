@@ -2,7 +2,7 @@
 
 
 class TradingBotError(Exception):
-    """Base exception for all trading bot errors."""
+    """Base exception for trading bots"""
 
 
 class ValidationError(TradingBotError):
